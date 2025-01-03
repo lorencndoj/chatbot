@@ -1,0 +1,13 @@
+requests>=2.31.0
+beautifulsoup4==4.12.2
+selenium==4.11.2
+aiohttp==3.8.5
+python-dotenv>=1.0.0
+textblob>=0.17.1
+Pillow>=10.1.0
+networkx>=3.2.1
+pyttsx3>=2.90
+webdriver-manager==4.0.0
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
