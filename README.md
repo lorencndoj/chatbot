@@ -1,22 +1,24 @@
-# Search Agent 🔍
+# Intelligent Chatbot 🤖
 
-An intelligent search agent that provides comprehensive analysis of web search results. Built with Python, FastAPI, and modern web scraping techniques.
+An advanced chatbot with web search capabilities and comprehensive analysis features.
 
 ## Features
 
-- 🌐 Advanced web scraping with parallel processing
-- 📊 Comprehensive result analysis
-- 🎯 Smart ranking system
-- 🔍 Detailed content extraction
-- 🤖 API interface
-- ⚡ Async processing
+- 🌐 Smart web search and analysis
+- 📊 Detailed result summaries
+- 🎯 Key points extraction
+- 📈 Statistical analysis
+- 👨‍🔬 Expert opinion gathering
+- ⚖️ Pros & cons analysis
+- 🔗 Related topics discovery
+- ⭐ Source credibility rating
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/leomilano33/searchagent.git
-cd searchagent
+git clone https://github.com/lorencndoj/chatbot.git
+cd chatbot
 ```
 
 2. Install dependencies:
@@ -40,6 +42,17 @@ python api.py
 
 The API will be available at `http://localhost:8000`
 
+## Features
+
+### Search Results Include:
+- 📝 Comprehensive summaries
+- 🎯 Key points
+- 📊 Statistics and data
+- 👨‍🔬 Expert insights
+- ⚖️ Pros & cons
+- 🔗 Related topics
+- ⭐ Credibility ratings
+
 ## API Endpoints
 
 - `GET /` - Welcome page and API info
@@ -52,17 +65,6 @@ Example search request:
     "max_results": 10
 }
 ```
-
-## Features
-
-### Search Results Include:
-- 📝 Detailed Summary
-- 🎯 Key Points
-- 📊 Statistics
-- 👨‍🔬 Expert Opinions
-- ⚖️ Pros & Cons Analysis
-- 🔗 Related Topics
-- ⭐ Source Credibility Rating
 
 ## License
 
